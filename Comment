@@ -1,0 +1,25 @@
+=============================================Open/Reopen=================================
+Verified On : https://qtmnewuiqa86.qmetry.com/#/
+Build Version : 8.6.2
+Browser: Chrome Version 83.0.4103.97 (Official Build) (64-bit)
+Issue persists in the current build when user .
+PFA : "QTM8-4465".
+CC : Dhaval Soneji 
+
+
+
+=============================================Resolved====================================
+Verified On : https://qtmnewuiqa86.qmetry.com/#/
+Build Version : 8.6.2
+Browser: Chrome Version 83.0.4103.97 (Official Build) (64-bit)
+Verified above mentioned issue scenario for current build and now its working fine, So Closing the ticket Now.
+PFA : "QTM8-4690". 
+CC : Dhaval Soneji
+
+=======================================
+BV
+
+Meeting
+
+
+QTM8-7873
